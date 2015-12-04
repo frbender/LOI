@@ -1,5 +1,5 @@
 def Caesar(text,verschiebung):
-    alp = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    alp = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     text = text.upper()
     output = ""
     for character in text:

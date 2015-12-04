@@ -1,5 +1,5 @@
 def CAESAR(text):
-    alp = list("ABCDEFGHIJKLMNOPQRSTUVWXYZ")
+    alp = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     text = text.upper()
     output = ""
     for character in text:
