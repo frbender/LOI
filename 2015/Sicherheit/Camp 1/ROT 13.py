@@ -1,4 +1,4 @@
-def CAESAR(text):
+def Rot13(text):
     alp = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
     text = text.upper()
     output = ""
